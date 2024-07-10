@@ -25,4 +25,4 @@ jobs:
 
     - name: Run tests
       run: |
-        python two_sum_test.py
+        python twosum.py
